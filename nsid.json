@@ -1,0 +1,63 @@
+{
+  "id": "20.5000.1025/c4942d87a9f89d8929c1",
+  "creationdatetime": "2019-08-06T07:55:11.346Z",
+  "creator": "20.5000.1025/60c6d277a8bd81de7fdd",
+  "midslevel": 2,
+  "scientificName": "Achillea pannonica Scheele",
+  "commonName": "Ungarische Wiesen-Schafgarbe / Hungarian Meadow Yarrow",
+  "country": "Germany",
+  "locality": "Sachsen-Anhalt",
+  "decimalLatLon": [
+    51.86,
+    12.42
+  ],
+  "recordedBy": "Willing,R. & Willing,E. 29556 D",
+  "collectionDate": "2014-08-28",
+  "catalogNumber": "B 10 0586893",
+  "institutionCode": "B",
+  "collectionCode": " B 10 0586893 ",
+  "stableIdentifier": "http://herbarium.bgbm.org/object/B100586893",
+  "physicalSpecimenId": " B 10 0586893",
+  "gbifId": "https://www.gbif.org/occurrence/1838967874",
+  "catOfLifeReference": "http://www.catalogueoflife.org/col/details/species/id/be003dd2645d31f368bbdb0a1c0e1ad2",
+  "wikipedia": "https://de.wikipedia.org/wiki/Ungarische_Wiesen-Schafgarbe",
+  "availableImages": [
+    [
+      "Curators Herbarium B (2000+)",
+      "image/jpeg",
+      "490x700",
+      "Botanic Garden and Botanical Museum Berlin",
+      "CC BY-SA 3.0",
+      "https://mediastorage.bgbm.org/fsi/server?type=image&source=Willing%5FDE%2F2014%2F08%2F28%2F2014-08-28_101.jpg"
+    ],
+    [
+      "Curators Herbarium B (2000+)",
+      "image/jpeg",
+      "490x700",
+      "Botanic Garden and Botanical Museum Berlin",
+      "CC BY-SA 3.0",
+      "https://mediastorage.bgbm.org/fsi/server?type=image&source=Willing%5FDE%2F2014%2F08%2F28%2F2014-08-28_106.jpg"
+    ],
+    [
+      "Curators Herbarium B (2000+)",
+      "image/jpeg",
+      "490x700",
+      "Botanic Garden and Botanical Museum Berlin",
+      "CC BY-SA 3.0",
+      "https://mediastorage.bgbm.org/fsi/server?type=image&source=Willing%5FDE%2F2014%2F08%2F28%2F2014-08-28_95.jpg"
+    ],
+    [
+      "Curators Herbarium B (2000+)",
+      "image/jpeg",
+      "490x700",
+      "Botanic Garden and Botanical Museum Berlin",
+      "CC BY-SA 3.0",
+      "https://mediastorage.bgbm.org/fsi/server?type=image&source=Willing%5FDE%2F2014%2F08%2F28%2F2014-08-28_112.jpg"
+    ]
+  ],
+  "decimalLatLong": [
+    51.86,
+    12.42
+  ],
+  "Annotations": "https://annosys.bgbm.fu-berlin.de/AnnoSys/repository/8ba0524c-aac1-11e8-9905-4957c8b18a59"
+}
